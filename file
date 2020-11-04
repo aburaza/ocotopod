@@ -1,1 +1,1 @@
-geth --mine --rpc --networkid 786786 --datadir octopod -unlock '0x85f8AA33d7c849D4CEb58322bEb8D8574a886b88'  --password passfile --ethstats node01:s3cr3t@localhost:3000
+geth --mine --rpc --networkid 786786 --datadir octopod -unlock '0x85f8AA33d7c849D4CEb58322bEb8D8574a886b88'  --password passfile --allow-insecure-unlock --ethstats node01:s3cr3t@localhost:3000
