@@ -1,0 +1,1 @@
+geth --mine --rpc --networkid 786786 --datadir octopod --rpcapi --rpccorsdomain "*" console
