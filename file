@@ -1,1 +1,1 @@
-geth --mine --rpc --networkid 786786 --datadir octopod --rpcapi --rpccorsdomain "*" console
+geth --mine --rpc --networkid 786786 --datadir octopod --rpcapi --rpccorsdomain "*" --ethstats node01:s3cr3t@localhost:3000 console
